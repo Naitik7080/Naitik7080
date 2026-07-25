@@ -1,6 +1,6 @@
 # Hi 👋, I'm Naitik Shukla
 
-### 💻 MERN Stack Learner | Passionate about Full Stack Web Development
+### 💻 MERN Stack Learner | Passionate about Full Stack Web Development| Front-end devloper
 
 ---
 
