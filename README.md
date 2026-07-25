@@ -1,16 +1,22 @@
 # Hi 👋, I'm Naitik Shukla
 
-### MERN Stack Learner 💻
+### 💻 MERN Stack Learner | Passionate about Full Stack Web Development
+
+---
 
 ## 🚀 About Me
-- 🌱 Currently learning MERN Stack Development
-- 💻 Interested in Full Stack Web Development
-- 🤖 Exploring AI tools for development
-- 🎯 Building real-world projects to improve my skills
 
-## 🛠️ Skills
-- HTML
-- CSS
+- 🌱 Currently learning the MERN Stack
+- 💻 Building real-world web applications
+- 🤖 Exploring AI tools for development
+- 🎯 Goal: Become a Professional Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
 - JavaScript
 - Bootstrap
 - React.js
@@ -19,24 +25,28 @@
 - MongoDB (Learning)
 - Git & GitHub
 
-## 📂 Current Project
-- 🌌 Galaxy Hub (MERN Stack Project)
--     Grocnet(Front-end Project)
+---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/Naitik7080
+## 🚀 Featured Projects
 
-<!--
-**Naitik7080/Naitik7080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌌 Galaxy Hub (MERN Full Stack)
+A full-stack web application built with the MERN Stack.
 
-Here are some ideas to get you started:
+🔗 Live Demo: https://gakaxy-hub.onrender.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛒 GrocNet (Frontend)
+A responsive grocery website built using HTML, CSS, JavaScript and Bootstrap.
+
+🔗 Live Demo: https://naitik7080.github.io/Grocnet/#home
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/naitik-shukla-7895b2419
+
+🐙 GitHub: https://github.com/Naitik7080
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
