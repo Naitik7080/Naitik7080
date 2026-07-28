@@ -37,8 +37,11 @@ A full-stack web application built with the MERN Stack.
 ### 🛒 GrocNet (Frontend)
 A responsive grocery website built using HTML, CSS, JavaScript and Bootstrap.
 
-🔗 Live Demo: https://naitik7080.github.io/Grocnet/#home
+🔗 Live Demo: https://naitik7080.github.io/Grocnet/
+###  SHUKLA Academy 
+A repo shukla academy website built using  HTML, CSS, JavaScript and Bootstrap,
 
+🔗 Live Demo: https://naitik7080.github.io/SHUKLA-Academy/
 ---
 
 ## 🌐 Connect With Me
