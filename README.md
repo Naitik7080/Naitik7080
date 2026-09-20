@@ -1,12 +1,12 @@
 # Hi 👋, I'm Naitik Shukla
 
-### 💻 MERN Stack Learner | Passionate about Full Stack Web Development| Front-end developer
+### 💻 Full Stack Learner | Passionate about Full Stack Web Development| Front-end developer
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning the MERN Stack
+- 🌱 Currently learning the  Full Stack
 - 💻 Building real-world web applications
 - 🤖 Exploring AI tools for development
 - 🎯 Goal: Become a Professional Full Stack Developer
@@ -18,11 +18,13 @@
 - HTML5
 - CSS3
 - JavaScript
+- Python
+- C
+- SQL
 - Bootstrap
 - React.js
 - Node.js (Learning)
 - Express.js (Learning)
-- MongoDB (Learning)
 - Git & GitHub
 
 ---
@@ -38,10 +40,7 @@ A full-stack web application built with the MERN Stack.
 A responsive grocery website built using HTML, CSS, JavaScript and Bootstrap.
 
 🔗 Live Demo: https://naitik7080.github.io/Grocnet/
-###  SHUKLA Academy 
-A repo shukla academy website built using  HTML, CSS, JavaScript and Bootstrap,
 
-🔗 Live Demo: https://naitik7080.github.io/SHUKLA-Academy/
 ---
 
 ## 🌐 Connect With Me
