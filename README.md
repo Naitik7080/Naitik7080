@@ -29,7 +29,10 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
+#### DEETECH(Full Stack Project)
+ Internet Service Provider  Website
+🔗 Live Demo:https://precious-integrity-production-53cf.up.railway.app/
 
 ### 🌌 Galaxy Hub (MERN Full Stack)
 A full-stack web application built with the MERN Stack.
